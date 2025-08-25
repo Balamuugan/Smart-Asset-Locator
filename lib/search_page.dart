@@ -34,7 +34,7 @@ class _SearchPageState extends State<SearchPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blueGrey,
-        title: const Text('Find Your Asset', style: TextStyle(fontWeight: FontWeight.bold)),
+        title: const Text('Find Your Assett', style: TextStyle(fontWeight: FontWeight.bold)),
         centerTitle: true,
       ),
       body: Padding(
