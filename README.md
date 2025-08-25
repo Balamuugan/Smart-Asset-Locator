@@ -1,16 +1,29 @@
-# smart_asset
+📦 Smart Asset Locator
 
-A new Flutter project.
+The Smart Asset Locator is an innovative solution designed to help users track and retrieve everyday items such as keys, wallets, files, and electronic devices efficiently. Built with Flutter (for the app) and RFID technology (for hardware integration), the system bridges the gap between usability, affordability, and scalability, ensuring reliability in both household and industrial environments.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+📍 Real-time Tracking – Locate misplaced items instantly using RFID tags.
 
-A few resources to get you started if this is your first Flutter project:
+📲 Cross-platform App – Built with Flutter for seamless use across Android and iOS.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📡 RFID Integration – Supports live data updates from RFID readers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📊 User-friendly Dashboard – Clean interface to view, search, and manage assets.
+
+📢 Alerts & Notifications – Get notified when an item is detected or missing.
+
+🔒 Secure & Scalable – Designed to adapt from homes to warehouses and industries.
+
+🏗️ Tech Stack
+
+Frontend (App): Flutter, Dart
+
+Backend (Database): Firebase Firestore (Real-time updates)
+
+Hardware: RFID Readers (ESP32/ESP8266 with Wi-Fi)
+
+Cloud Integration: Wi-Fi/HTTP/WebSocket connections
+
+Future Scope: AI-based prediction, extended RFID range with antennas
